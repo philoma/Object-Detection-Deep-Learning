@@ -3,6 +3,7 @@
 
 ![image](https://github.com/philoma/Object-Detection-Deep-Learning/assets/87674698/ea77e277-f1d8-4628-bb12-e343c99d06e2)
 
-<h2>YOLO Algorithm structure:</h2>
+<h2>YOLO Algorithm structure: </h2>
+
 
 ![image](https://github.com/philoma/Object-Detection-Deep-Learning/assets/87674698/ee0c8c7f-14bd-45cf-9935-3aa06c8d170c)
